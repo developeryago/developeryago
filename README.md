@@ -1,6 +1,6 @@
 ### Olá pessoal!👋
 
-<p>Eu sou <strong>Yago Machado</strong> resido em Maricá, Rio de Janeiro. Amo programar pois a ideia de poder resolver problemas do cotidiano através da programação é fascinante. Sou studande de <strong>Engenharia de Software</strong> e futuro desenvolvedor.</p>
+<p>Eu sou <strong>Yago Machado</strong> resido em Maricá, Rio de Janeiro. Amo programar pois a ideia de poder resolver problemas do cotidiano através da programação é fascinante. Sou estudande de <strong>Engenharia de Software</strong> e futuro desenvolvedor.</p>
 
 <div style="display: inline_block"><br> 
 Stacks front-end: <br> <br>
